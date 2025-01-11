@@ -1,6 +1,7 @@
 # villagewin
 Step 1:
 first, you need to make your in game personal settings as follows;
+![Ekran görüntüsü 2025-01-11 135257](https://github.com/user-attachments/assets/bb032138-7229-458c-8de0-9168c404251c)
 
 Your game language must be English!!
 
