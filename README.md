@@ -15,4 +15,4 @@ Dont forget to do Ctrl + S
 
 
 
-in your game nick
+Type in your game nick
