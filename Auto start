@@ -1,0 +1,15 @@
+// ==UserScript==
+// @name         AutoStart
+// @namespace    https://www.wolvesville.com/
+// @version      0.1
+// @description  Script is developed to do almost work when u play custom !
+// @match        https://www.wolvesville.com/
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=wolvesville.com
+// @grant        none
+// @license      MIT
+// @namespace    https://github.com/Yusw06
+// @downloadURL  https://raw.githubusercontent.com/Yusw06/villagewin/blob/main/customuser.js
+// @updateURL    https://raw.githubusercontent.com/Yusw06/villagewin/blob/main/customuser.js
+// ==/UserScript==
+(function () {'use strict';const targetLetter = 'OK';const checkText = 'Play again';function checkAndClick() {const buttons = Array.from(document.querySelectorAll('div'));buttons.forEach((button) => {if (button.textContent.trim() === targetLetter) {const playAgainExists = Array.from(document.querySelectorAll('div'))
+.some(el => el.textContent.trim() === checkText);if (playAgainExists) {button.click();}}});}setInterval(checkAndClick, 1000);})();
