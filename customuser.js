@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Grind bot
 // @namespace    https://www.wolvesville.com/
-// @version      1.4
+// @version      1.0
 // @description  Script
 // @homepage     https://github.com/Yusw06
 // @author       https://www.facebook.com/profile.php?id=100004195688381
