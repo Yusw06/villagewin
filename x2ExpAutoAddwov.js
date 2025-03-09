@@ -5,7 +5,7 @@
 // @description  wolvesville
 // @homepage     https://github.com/Yusw06
 // @author       Yusw
-// @contributor  eveninglovers
+// @contributor  Yusw06
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wolvesville.com
 // @match        *://*.wolvesville.com/*
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
